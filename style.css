@@ -17,4 +17,6 @@ h1{
   position: relative;
   margin: auto;
 }
-
+button{
+  border-radius: 10px;
+}
